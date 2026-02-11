@@ -1,0 +1,147 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	rz
+LFL1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+LFL9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFL2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFA11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	n/a	n/a
+LFA12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	n/a	n/a
+LFP1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+LFP11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LFP15	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+LFP16	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+LAH1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	yes	yes
+LAH2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	yes	yes
+LAH3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	yes
+LAH4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	yes
+LAH5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	yes	yes
+LAH6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	yes
+LAH7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAH8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAH9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAH10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAH11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAH12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	yes
+LPH2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	yes
+LPH3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	yes
+LPH4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes
+LPH5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+LPH6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+LPH7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPH12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAST1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAST2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAST3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LAST4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPST1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPST2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPST3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPST4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LALT6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes
+LPLT1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPLT2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPLT3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPLT4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPLT5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+LPLT6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	n/a	n/a
+RAH2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+RAH8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+RAH9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RAH12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+RPH6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	White Matter	n/a	n/a
+RPH7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RPH12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+RFM14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
+AIN1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+AIN2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+AIN3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+AIN4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+DIN1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	n/a	n/a
+RFL2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Outside Brain	n/a	n/a
+RFL3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL15	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+RFL16	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+EKG1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+EKG2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
+AIN17	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a
