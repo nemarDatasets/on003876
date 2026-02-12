@@ -1,5 +1,0 @@
-{
-    "RZ": "Resected zone marked channel by clinicians. Note this is the estimated region. For rigorous annotation, utilize the post-surgical MRI.",
-    "EPZ": "Early propagation zone marked channel by clinicians.",
-    "SOZ": "Seizure onset zone marked channel by clinicians."
-}
