@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Epilepsy-iEEG-Interictal-Multicenter-Dataset",
+  "description": "A multicenter interictal intracranial EEG dataset from subjects with epilepsy, comprising de-identified recordings from the National Institute of Health, Johns Hopkins Hospital, and University of Miami Florida Jackson Memorial Hospital. The dataset includes annotated sleep and awake states and serves as a resource for investigating electrophysiological markers of epileptogenicity, including source-sink connectivity and high-frequency oscillations. Processed derivatives from source-sink analysis and HFO detection using RMS and Hilbert methods are provided.",
+  "methods_description": "Intracranial EEG recordings were collected during interictal periods from subjects with epilepsy across multiple clinical centers. Data were de-identified and organized according to BIDS and iEEG-BIDS specifications using MNE-BIDS. Sleep and awake states were annotated where available. High-frequency oscillations were detected using both RMS and Hilbert transform methods.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -47,12 +49,32 @@
     "Gonzalez-Martinez, Jorge": {},
     "Sarma, Sridevi": {}
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds003876.v1.0.2",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "intracranial EEG"
     },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "interictal"
+    },
+    {
+      "term": "high-frequency oscillations"
+    },
+    {
+      "term": "source-sink connectivity"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "multicenter study"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on003876",
       "identifier_type": "URL",
@@ -87,6 +109,11 @@
       "identifier": "10.18112/openneuro.ds003029",
       "identifier_type": "DOI",
       "relation_type": "IsSupplementedBy"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds003876.v1.0.2",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
@@ -117,16 +144,16 @@
     },
     {
       "funder_name": "Burroughs Wellcome Fund",
-      "award_number": "1007274"
+      "award_number": "CASI Award 1007274"
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "5.5 GB (199 files)"
   ],
   "formats": [
     ".edf",
@@ -134,43 +161,8 @@
     ".mat",
     ".md",
     ".tsv",
-    ".xlsx"
+    ".xlsx",
+    ".yml"
   ],
-  "description": "A multicenter interictal intracranial electroencephalography (iEEG) dataset from patients with epilepsy, comprising de-identified recordings from three major medical centers (NIH, Johns Hopkins Hospital, and University of Miami). The dataset includes annotated sleep/awake states and processed derivatives for source-sink connectivity and high-frequency oscillation analyses. Note: This represents a subset of the full multicenter study; additional data from Kansas University Medical Center, University of Pittsburgh Medical Center, and Cleveland Clinic are not included due to data sharing restrictions at those institutions. Complementary ictal recordings from overlapping subjects are available in ds003029.",
-  "methods_description": "Intracranial EEG recordings were collected from epilepsy patients across multiple centers. Data was converted to BIDS format using MNE-BIDS. Processed derivatives include source-sink connectivity analysis and high-frequency oscillation (HFO) detection using both RMS and Hilbert transform methods.",
-  "keywords": [
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "interictal"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    },
-    {
-      "term": "seizure onset zone"
-    },
-    {
-      "term": "high-frequency oscillations"
-    },
-    {
-      "term": "source-sink connectivity"
-    },
-    {
-      "term": "intracranial electrophysiology"
-    },
-    {
-      "term": "sleep"
-    },
-    {
-      "term": "awake state"
-    },
-    {
-      "term": "multicenter"
-    }
-  ],
-  "source_hash": "8325ff54be4b6def44b309fd89cfc023dc74e01d1ee05a5ff8c43475c010054c"
+  "source_hash": "cf7df5886482886e2ed887e16447f42f9eb4874d6674790d400648d4180c25b0"
 }
