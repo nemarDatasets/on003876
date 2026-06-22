@@ -1,0 +1,78 @@
+{
+  "version": "2.0",
+  "dataset_id": "on003876",
+  "source": "openneuro",
+  "source_id": "ds003876",
+  "title": "Epilepsy-iEEG-Interictal-Multicenter-Dataset",
+  "authors": {
+    "Gunnarsdottir, Kristin": {},
+    "Li, Adam": {},
+    "Smith, Rachel": {},
+    "Kang, Joon": {},
+    "Korzeniewska, Anna": {},
+    "Crone, Nathan": {},
+    "Rouse, Adam": {},
+    "Cheng, Jennifer": {},
+    "Kinsman, Michael": {},
+    "Landazuri, Patrick": {},
+    "Uysal, Utku": {},
+    "Ulloa, Carol": {},
+    "Cameron, Nathaniel": {},
+    "Cajigas, Iahn": {},
+    "Jagid, Jonathan": {},
+    "Kanner, Andres": {},
+    "Elarjani, Turki": {},
+    "Bicchi, Manuel": {},
+    "Inati, Sara": {},
+    "Zaghloul, Kareem": {},
+    "Boerwinkle, Varina": {},
+    "Wyckoff, Sarah": {},
+    "Barot, Niravkumar": {},
+    "Gonzalez-Martinez, Jorge": {},
+    "Sarma, Sridevi": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds003876.v1.0.2",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.6.0",
+  "recording_modality": [
+    "ieeg"
+  ],
+  "datatypes": [
+    "ieeg"
+  ],
+  "funding_references": [
+    {
+      "funder_name": "NIH T32 EB003383"
+    },
+    {
+      "funder_name": "NSF GRFP (DGE-1746891)"
+    },
+    {
+      "funder_name": "ARCS Scholarship"
+    },
+    {
+      "funder_name": "Whitaker Fellowship"
+    },
+    {
+      "funder_name": "Chateaubriand Fellowship"
+    },
+    {
+      "funder_name": "NIH R21 NS103113"
+    },
+    {
+      "funder_name": "US NSF Career Award 1055560"
+    },
+    {
+      "funder_name": "Burroughs Well CASI Award 1007274"
+    }
+  ],
+  "acknowledgements": "MNE-BIDS was used for converting datasets to BIDS format."
+}
