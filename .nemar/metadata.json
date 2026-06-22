@@ -1,60 +1,95 @@
 {
   "version": "2.0",
-  "dataset_id": "on003876",
-  "source": "openneuro",
-  "source_id": "ds003876",
+  "pipeline_stage": "enriched",
   "title": "Epilepsy-iEEG-Interictal-Multicenter-Dataset",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
-    "Gunnarsdottir, Kristin": {},
-    "Li, Adam": {},
+    "Gunnarsdottir, Kristin": {
+      "orcid": "0000-0002-9278-3844"
+    },
+    "Li, Adam": {
+      "orcid": "0000-0001-8421-365X"
+    },
     "Smith, Rachel": {},
     "Kang, Joon": {},
     "Korzeniewska, Anna": {},
-    "Crone, Nathan": {},
-    "Rouse, Adam": {},
+    "Crone, Nathan": {
+      "orcid": "0000-0001-7950-2617"
+    },
+    "Rouse, Adam": {
+      "orcid": "0000-0003-3785-1442"
+    },
     "Cheng, Jennifer": {},
     "Kinsman, Michael": {},
     "Landazuri, Patrick": {},
     "Uysal, Utku": {},
     "Ulloa, Carol": {},
     "Cameron, Nathaniel": {},
-    "Cajigas, Iahn": {},
-    "Jagid, Jonathan": {},
+    "Cajigas, Iahn": {
+      "orcid": "0000-0002-5808-453X"
+    },
+    "Jagid, Jonathan": {
+      "orcid": "0000-0001-6015-5360"
+    },
     "Kanner, Andres": {},
     "Elarjani, Turki": {},
     "Bicchi, Manuel": {},
-    "Inati, Sara": {},
-    "Zaghloul, Kareem": {},
+    "Inati, Sara": {
+      "orcid": "0000-0002-7587-5085"
+    },
+    "Zaghloul, Kareem": {
+      "orcid": "0000-0001-8575-3578"
+    },
     "Boerwinkle, Varina": {},
     "Wyckoff, Sarah": {},
     "Barot, Niravkumar": {},
     "Gonzalez-Martinez, Jorge": {},
     "Sarma, Sridevi": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds003876.v1.0.2",
       "identifier_type": "DOI",
       "relation_type": "IsIdenticalTo"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on003876",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataexplorer/detail?dataset_id=on003876",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1038/s41593-021-00901-w",
+      "identifier_type": "DOI",
+      "relation_type": "IsReferencedBy"
+    },
+    {
+      "identifier": "10.1101/2021.10.15.464594",
+      "identifier_type": "DOI",
+      "relation_type": "IsReferencedBy"
+    },
+    {
+      "identifier": "10.21105/joss.01896",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.1038/s41597-019-0105-7",
+      "identifier_type": "DOI",
+      "relation_type": "References"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds003029",
+      "identifier_type": "DOI",
+      "relation_type": "IsSupplementedBy"
     }
   ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.6.0",
-  "recording_modality": [
-    "ieeg"
-  ],
-  "datatypes": [
-    "ieeg"
-  ],
   "funding_references": [
-    {
-      "funder_name": "NIH T32 EB003383"
-    },
-    {
-      "funder_name": "NSF GRFP (DGE-1746891)"
-    },
     {
       "funder_name": "ARCS Scholarship"
     },
@@ -65,14 +100,77 @@
       "funder_name": "Chateaubriand Fellowship"
     },
     {
-      "funder_name": "NIH R21 NS103113"
+      "funder_name": "NIH",
+      "award_number": "T32 EB003383"
     },
     {
-      "funder_name": "US NSF Career Award 1055560"
+      "funder_name": "NSF",
+      "award_number": "DGE-1746891"
     },
     {
-      "funder_name": "Burroughs Well CASI Award 1007274"
+      "funder_name": "NIH",
+      "award_number": "R21 NS103113"
+    },
+    {
+      "funder_name": "NSF",
+      "award_number": "1055560"
+    },
+    {
+      "funder_name": "Burroughs Wellcome Fund",
+      "award_number": "1007274"
     }
   ],
-  "acknowledgements": "MNE-BIDS was used for converting datasets to BIDS format."
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "0.0 KB (1 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".mat",
+    ".md",
+    ".tsv",
+    ".xlsx"
+  ],
+  "description": "A multicenter interictal intracranial electroencephalography (iEEG) dataset from patients with epilepsy, comprising de-identified recordings from three major medical centers (NIH, Johns Hopkins Hospital, and University of Miami). The dataset includes annotated sleep/awake states and processed derivatives for source-sink connectivity and high-frequency oscillation analyses. Note: This represents a subset of the full multicenter study; additional data from Kansas University Medical Center, University of Pittsburgh Medical Center, and Cleveland Clinic are not included due to data sharing restrictions at those institutions. Complementary ictal recordings from overlapping subjects are available in ds003029.",
+  "methods_description": "Intracranial EEG recordings were collected from epilepsy patients across multiple centers. Data was converted to BIDS format using MNE-BIDS. Processed derivatives include source-sink connectivity analysis and high-frequency oscillation (HFO) detection using both RMS and Hilbert transform methods.",
+  "keywords": [
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "interictal"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    },
+    {
+      "term": "seizure onset zone"
+    },
+    {
+      "term": "high-frequency oscillations"
+    },
+    {
+      "term": "source-sink connectivity"
+    },
+    {
+      "term": "intracranial electrophysiology"
+    },
+    {
+      "term": "sleep"
+    },
+    {
+      "term": "awake state"
+    },
+    {
+      "term": "multicenter"
+    }
+  ],
+  "source_hash": "8325ff54be4b6def44b309fd89cfc023dc74e01d1ee05a5ff8c43475c010054c"
 }
