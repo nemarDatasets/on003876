@@ -7,12 +7,12 @@
     "RecordingDuration": 498.169,
     "RecordingType": "continuous",
     "iEEGReference": "n/a",
-    "ECOGChannelCount": 98,
+    "ECOGChannelCount": 97,
     "SEEGChannelCount": 0,
     "EEGChannelCount": 0,
     "EOGChannelCount": 0,
     "ECGChannelCount": 0,
     "EMGChannelCount": 0,
-    "MiscChannelCount": 0,
+    "MiscChannelCount": 1,
     "TriggerChannelCount": 0
 }

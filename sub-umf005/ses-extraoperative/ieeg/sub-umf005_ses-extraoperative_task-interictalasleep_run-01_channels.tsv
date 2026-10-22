@@ -1,36 +1,36 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	rz
-EVENT	ECOG	n/a	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	n/a	n/a	n/a
-LLAT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LLAT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LABT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-RLAT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RLAT6	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-LLAT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LABT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-RLAT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-LABT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LLAT5	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LPBT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LLAT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LABT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LPBT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-RLAT5	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+Event	ECOG	n/a	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	n/a	n/a	n/a
+LLAT 1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LLAT 3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LABT 3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+RLAT 1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RLAT 6	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+LLAT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LABT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+RLAT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+LABT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LLAT 5	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LPBT 1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LLAT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LABT 1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LPBT 3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+RLAT 5	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
 RABT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-LLAT6	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-LPBT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-RLAT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-LPBT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
-FPZ	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	n/a	n/a	n/a
-RLAT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+LLAT 6	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+LPBT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+RLAT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+LPBT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	n/a	n/a
+Fpz	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	n/a	n/a	n/a
+RLAT 3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
 X1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	Excel-labeled	n/a	n/a
 X2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	Excel-labeled	n/a	n/a
-RABT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RABT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RABT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RPBT1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RPBT2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RABT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RABT 3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RABT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RPBT 1	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RPBT 2	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
 RPBT3	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
-RPBT4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
+RPBT 4	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	good	n/a	yes	yes
 X10	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	Excel-labeled	n/a	n/a
 X11	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	Excel-labeled	n/a	n/a
 X12	ECOG	µV	0.0	512.2998975400204	Electrocorticography	1024.5997950800408	bad	Excel-labeled	n/a	n/a

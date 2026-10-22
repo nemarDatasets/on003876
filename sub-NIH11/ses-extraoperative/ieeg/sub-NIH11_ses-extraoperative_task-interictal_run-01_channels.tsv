@@ -1,122 +1,122 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	epz	rz
-MP1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP5	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP6	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP9	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-MP10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-MP11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MP13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
-MP14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
-MP15	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
-MP16	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
-MPF01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MPF10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
-MPF11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
-MPF12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
-MAF01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	yes
-MAF11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-MAF12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSA10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMA12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-EKG1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-EKG2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-LIA01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA15	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LIA16	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM13	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LM14	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP11	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LSP12	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP01	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP02	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP03	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP04	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP05	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP06	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP07	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP08	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP09	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-LMP10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
-AIN1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-AIN2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-AIN3	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-AIN4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
-DIN1	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG MP1-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP2-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP3-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP4-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP5-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP6-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP7-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP8-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP9-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG MP10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG MP11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MP13-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
+EEG MP14-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
+EEG MP15-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
+EEG MP16-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	yes	n/a
+EEG MPF01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MPF10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
+EEG MPF11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
+EEG MPF12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	yes	n/a	n/a
+EEG MAF01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	yes
+EEG MAF11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG MAF12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSA10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMA12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG EKG1-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG EKG2-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG LIA01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA13-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA14-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA15-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LIA16-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM13-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LM14-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP11-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LSP12-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP01-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP02-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP03-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP04-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP05-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP06-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP07-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP08-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP09-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG LMP10-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a	n/a
+EEG ain1-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG ain2-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG ain3-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG ain4-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG din1-G2	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	Excel-labeled	n/a	n/a	n/a

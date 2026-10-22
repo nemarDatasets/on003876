@@ -1,5 +1,5 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	epz	rz
-EVENT	ECOG	n/a	0.0	499.70605526161086	Electrocorticography	999.4121105232217	bad	n/a	n/a	n/a	n/a
+Event	ECOG	n/a	0.0	499.70605526161086	Electrocorticography	999.4121105232217	bad	n/a	n/a	n/a	n/a
 C1	ECOG	µV	0.0	499.70605526161086	Electrocorticography	999.4121105232217	good	n/a	n/a	n/a	n/a
 C2	ECOG	µV	0.0	499.70605526161086	Electrocorticography	999.4121105232217	good	n/a	n/a	n/a	n/a
 C3	ECOG	µV	0.0	499.70605526161086	Electrocorticography	999.4121105232217	good	n/a	n/a	n/a	n/a

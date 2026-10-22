@@ -1,102 +1,102 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	rz
-RFS1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RFS2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RFS3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RFS4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
--0	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
--1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-RFS5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RFS6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
-RPG8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG9	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG10	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG11	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG12	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG13	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-E	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-RPG14	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
-RPG15	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG16	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG17	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG18	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG19	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG20	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-RPG21	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
-RPG22	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG23	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG24	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG25	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG26	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG27	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG28	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-DC01	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-DC02	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-DC03	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-DC04	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-RPG29	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG30	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-$RPG3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-$RPG4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-RPG31	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG32	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG33	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG34	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG35	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
-RPG36	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG37	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG38	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG39	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
-RPG40	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG41	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG42	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG43	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG44	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG45	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG46	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG47	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-RPG48	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PSI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PSI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PSI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PSI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PSI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
-PSI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PSI7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PSI8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PDI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PDI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PDI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PDI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-PDI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
-PDI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
-ASI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-ASI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-ASI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-ASI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-ASI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-ASI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
-APD1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-APD8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-PPD8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
-EKG1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
-EKG2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL RFS1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RFS2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RFS3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RFS4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL-0	MISC	µV	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL-1	MISC	µV	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL RFS5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RFS6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
+POL RPG8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG9	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG10	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG11	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG12	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG13	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL E	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL RPG14	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
+POL RPG15	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG16	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG17	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG18	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG19	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG20	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL RPG21	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
+POL RPG22	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG23	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG24	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG25	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG26	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG27	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG28	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL DC01	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL DC02	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL DC03	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL DC04	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL RPG29	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG30	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL $RPG3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL $RPG4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL RPG31	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG32	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG33	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG34	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG35	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
+POL RPG36	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG37	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG38	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG39	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
+POL RPG40	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG41	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG42	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG43	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG44	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG45	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG46	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG47	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL RPG48	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PSI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PSI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PSI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PSI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PSI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	n/a
+POL PSI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PSI7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PSI8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PDI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PDI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PDI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PDI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL PDI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
+POL PDI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	Excel-labeled	n/a	n/a
+POL ASI1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL ASI2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL ASI3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL ASI4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL ASI5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL ASI6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	n/a	n/a
+POL APD1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL APD8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD3	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD4	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD5	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD6	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD7	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL PPD8	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	good	n/a	yes	yes
+POL EKG1	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a
+POL EKG2	ECOG	µV	0.0	500.0	Electrocorticography	1000.0	bad	n/a	n/a	n/a

@@ -1,0 +1,2 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	epz	rz
+N/A	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	n/a	n/a	n/a	n/a

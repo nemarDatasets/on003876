@@ -35,7 +35,7 @@ REF	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	n/a	n/a	n/a
 PO4	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
 PO7	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
 PO8	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
-OZ	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	n/a	n/a	n/a
+Oz	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	n/a	n/a	n/a
 T10	SEEG	µV	0.0	512.0	StereoEEG	1024.0	good	n/a	n/a	n/a
 EKGL	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	n/a	n/a	n/a
 EKGR	SEEG	µV	0.0	512.0	StereoEEG	1024.0	bad	n/a	n/a	n/a

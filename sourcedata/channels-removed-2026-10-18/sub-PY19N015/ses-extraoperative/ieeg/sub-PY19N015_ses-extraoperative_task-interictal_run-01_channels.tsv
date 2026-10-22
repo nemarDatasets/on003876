@@ -1,0 +1,3 @@
+﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz
+-0	SEEG	µV	0.0	499.99999999999994	StereoEEG	999.9999999999999	bad	n/a	n/a
+-1	SEEG	µV	0.0	499.99999999999994	StereoEEG	999.9999999999999	bad	n/a	n/a

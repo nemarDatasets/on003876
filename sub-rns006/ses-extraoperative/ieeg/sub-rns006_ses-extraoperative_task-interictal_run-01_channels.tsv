@@ -126,4 +126,4 @@ C124	SEEG	µV	0.0	250.0	StereoEEG	500.0	good	n/a	n/a	n/a
 C125	SEEG	µV	0.0	250.0	StereoEEG	500.0	good	n/a	n/a	n/a
 C126	SEEG	µV	0.0	250.0	StereoEEG	500.0	good	n/a	n/a	n/a
 C127	SEEG	µV	0.0	250.0	StereoEEG	500.0	good	n/a	n/a	n/a
-REF	SEEG	µV	0.0	250.0	StereoEEG	500.0	bad	n/a	n/a	n/a
+ref	SEEG	µV	0.0	250.0	StereoEEG	500.0	bad	n/a	n/a	n/a

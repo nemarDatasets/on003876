@@ -1,5 +1,5 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	rz
-EVENT	SEEG	n/a	0.0	499.70605526161086	StereoEEG	999.4121105232217	bad	n/a	n/a	n/a
+Event	SEEG	n/a	0.0	499.70605526161086	StereoEEG	999.4121105232217	bad	n/a	n/a	n/a
 LTP1	SEEG	µV	0.0	499.70605526161086	StereoEEG	999.4121105232217	good	n/a	yes	yes
 LTP2	SEEG	µV	0.0	499.70605526161086	StereoEEG	999.4121105232217	good	n/a	yes	yes
 LTP3	SEEG	µV	0.0	499.70605526161086	StereoEEG	999.4121105232217	good	n/a	yes	yes

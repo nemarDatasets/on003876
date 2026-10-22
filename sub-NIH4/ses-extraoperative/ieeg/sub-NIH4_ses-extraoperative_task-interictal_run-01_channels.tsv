@@ -1,108 +1,108 @@
 ﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description	soz	epz	rz
-RAD1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RAD6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RAD7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAD10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-EKG1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-E	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-EKG2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RPHD1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAHD2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPHD10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-DC09	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	n/a	n/a	n/a	n/a
-DC10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-DC11	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-DC12	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RAID5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-$RAHD1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-$RAHD2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RAID7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID11	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID12	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID13	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID14	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID15	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RAID16	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID11	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID12	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID13	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RPID14	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-CH70	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-CH71	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
-RSLP1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSLP2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSLP3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSLP4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSLP5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RSLP6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RSLP7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RSLP8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
-RSLP9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
-RSLP10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RILP1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RILP2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RILP3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RILP4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RILP5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RILP6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RILP7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
-RILP8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	yes
-RILP9	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	yes
-RILP10	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
-RIMP1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RIMP2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
-RIMP3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
-RIMP4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RIMP5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RIMP6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RIMP7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RIMP8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP1	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP2	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
-RSMP3	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	n/a
-RSMP4	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP5	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP6	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP7	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
-RSMP8	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD1-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD2-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD3-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD4-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD5-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RAD6-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RAD7-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD8-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD9-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAD10-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL EKG1-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL E-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL EKG2-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RPHD1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAHD2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPHD10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL DC09-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	n/a	n/a	n/a	n/a
+EEG POL DC10-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL DC11-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL DC12-Ref	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RAID5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL $RAHD1-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL $RAHD2-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RAID7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID11-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID12-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID13-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID14-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID15-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RAID16-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID11-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID12-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID13-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RPID14-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG Ch70	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG Ch71	SEEG	µV	0.0	500.0	StereoEEG	1000.0	bad	Excel-labeled	n/a	n/a	n/a
+EEG POL RSLP1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSLP2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSLP3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSLP4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSLP5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RSLP6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RSLP7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RSLP8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
+EEG POL RSLP9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
+EEG POL RSLP10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RILP1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RILP2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RILP3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RILP4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RILP5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RILP6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RILP7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	yes
+EEG POL RILP8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	yes
+EEG POL RILP9-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	yes
+EEG POL RILP10-R	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	yes
+EEG POL RIMP1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RIMP2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
+EEG POL RIMP3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
+EEG POL RIMP4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RIMP5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RIMP6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RIMP7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RIMP8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP1-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP2-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	yes	n/a
+EEG POL RSMP3-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	yes	n/a	n/a
+EEG POL RSMP4-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP5-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP6-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP7-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
+EEG POL RSMP8-Re	SEEG	µV	0.0	500.0	StereoEEG	1000.0	good	n/a	n/a	n/a	n/a
